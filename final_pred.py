@@ -748,6 +748,6 @@ class Application:
         cv2.destroyAllWindows()
 
 
-print("Starting Application...")
+print("Starting Application....")
 
 (Application()).root.mainloop()
